@@ -1,0 +1,5 @@
+# The fisrt four eigenvalues   p = 1   
+No. of elements     || No. of DOFs    ||     The first eigenvalue
+34   235   -0.153424786208659 
+272   827   -0.240449131256113 
+2176   3979   -0.261938529241323 

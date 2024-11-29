@@ -1,0 +1,6 @@
+# The fisrt eigenvalue   p= 3 
+No. of elements     || No. of DOFs    ||     The first four eigenvalues
+
+144   441   -0.575571043345299  
+576   1089   -0.576829607973934  
+2304   3249   -0.577151562246762  
